@@ -1,5 +1,5 @@
 # GeometricBrownianMotion
-GBM Model using Python and Jupyter.
+GBM Model using Python and Jupyter. To use, install Jupyter Notebooks and open the `.ipynb` file with it.
 
 To make the model fit better (reducing what "dx" prints to as close to zero as possible) try changing dt (the step size) up or down to suit your needs.  
 
